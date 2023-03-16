@@ -1,2 +1,2 @@
-# ScaDULERv2-fe-ng
-ScaDULERv2 frontend implementation using Angular Framework.
+# RESTeduler frontend
+RESTeduler's (ScaDULER V2) frontend implementation. Uses Angular framework to do so.
